@@ -1,18 +1,17 @@
 <p align="center">
   <a target="_blank" href="https://brandin.netlify.app">
-  <img height="200" alt="Brandi Nichols Software Engineer" src="">  
+  <img height="250" width= "1000" alt="Brandi Nichols Software Engineer" src="Cover.png">  
   </a>
 </p>
 
 # Hey, I'm Brandi a Web-based Software Engineer!
 
-About Me
-- UX background
-- Tech stack: MERN stack and front-end development
-- Building and creating with XR technologies
-- Always open to collaborating and connecting with other creative technologists
+- 🧠 UX background
+- 🛠️ Tech stack: MERN stack and front-end development
+- 🚀 Building and creating with XR technologies
+- 🌱 Always open to collaborating and connecting with other creative technologists
 
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
